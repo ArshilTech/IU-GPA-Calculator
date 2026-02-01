@@ -1,13 +1,16 @@
 import './App.css'
+import Footer from './Footer'
 import Hero from './Hero'
 import Navbar from './Navbar'
 
 function App(){
 
   return(
-    <div>
+    <div className="flex flex-col min-h-screen">
       <Navbar/>
       <Hero/>
+      <div className="grow"></div>
+      <Footer/>
     </div>
   )
 }
