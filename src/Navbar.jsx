@@ -3,7 +3,7 @@ function Navbar(){
 
     return(
         <div>
-            <div className="flex justify-between border-2 py-1 px-2 bg-[#25671E]">
+            <div className="flex justify-between border-2 py-1 px-2 bg-[#48A111]">
                 <h2 className="text-2xl font-mono  text-[#F2B50B]">IU GPA Calculator</h2>
                 <div className="flex gap-6">
                     <a href="#" className="text-2xl font-mono  text-[#F2B50B]">Sources</a>
