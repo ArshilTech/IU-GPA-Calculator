@@ -159,24 +159,7 @@ The calculator follows the grading system defined in the **Integral University B
 
 ### Grade Point Scale
 
-| Grade | Grade Points | Marks Range |
-|:-----:|:------------:|:-----------:|
-| O     | 10           | 90–100      |
-| A+    | 9            | 80–89       |
-| A     | 8            | 70–79       |
-| B+    | 7            | 60–69       |
-| B     | 6            | 55–59       |
-| C     | 5            | 50–54       |
-| P     | 4            | 45–49       |
-| F     | 0            | Below 45    |
-
-### Formulas
-
-**SGPA** = Σ (Credit × Grade Point) / Σ Credits
-
-**CGPA** = Σ (SGPA × Semester Credits) / Σ Total Credits
-
-> 📖 For the official documentation, refer to **pages 7 and 14** of the [B.Tech Ordinance (NEP-2020)](public/B.Tech%20Ordinance(NEP-2020).pdf).
+📖 For the official documentation, refer to **pages 7 and 14** of the [B.Tech Ordinance (NEP-2020)](public/B.Tech%20Ordinance(NEP-2020).pdf).
 
 ---
 
@@ -198,7 +181,6 @@ The calculator follows the grading system defined in the **Integral University B
 - [ ] Result display with visual charts
 - [ ] Export results as PDF
 - [ ] Dark mode toggle
-- [ ] GPA history tracking (local storage)
 
 ---
 
