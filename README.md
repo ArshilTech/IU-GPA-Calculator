@@ -40,7 +40,7 @@
 
 **IU GPA Calculator** is a web-based tool designed specifically for **Integral University, Lucknow** students to calculate their **SGPA** (Semester Grade Point Average) and **CGPA** (Cumulative Grade Point Average) effortlessly.
 
-All calculations are performed using the **official formulas and grading criteria** as outlined in the university's **B.Tech Ordinance (NEP-2020)** — no guesswork, no approximations.
+All calculations are performed using the **official formulas and grading criteria** as outlined in the university's **B.Tech Ordinance (NEP-2020)** - no guesswork, no approximations.
 
 > 🎯 **Why this exists:** Manually calculating GPA from mark sheets can be tedious and error-prone. This tool automates the process with a clean, easy-to-use interface tailored to IU's exact grading system.
 
@@ -198,7 +198,7 @@ Contributions, issues, and feature requests are welcome! If you're an IU student
 
 ## 🙏 Acknowledgements
 
-- **Integral University, Lucknow** — for providing the official B.Tech Ordinance (NEP-2020) documentation
+- **Integral University, Lucknow** - for providing the official B.Tech Ordinance (NEP-2020) documentation
 - **React** and **Vite** communities for excellent developer tooling
 - All IU students who inspired this project
 
